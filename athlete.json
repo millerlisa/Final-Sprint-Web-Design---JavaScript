@@ -1,0 +1,82 @@
+[
+    {
+        "athleteFName": "Matthew",
+        "athleteLName": "Fraser",
+        "totalPoints": "1150",
+        "rank": "1",
+        "country": "USA",
+        "division": "men"
+    },
+    {
+        "athleteFName": "Samuel",
+        "athleteLName": "Kwant",
+        "totalPoints": "605",
+        "rank": "2",
+        "country": "USA",
+        "division": "men"
+    },
+    {
+        "athleteFName": "Justin",
+        "athleteLName": "Medeiros",
+        "totalPoints": "560",
+        "rank": "3",
+        "country": "USA",
+        "division": "men"
+    },
+    {
+        "athleteFName": "Noah",
+        "athleteLName": "Ohlsen",
+        "totalPoints": "540",
+        "rank": "4",
+        "country": "USA",
+        "division": "men"
+    },
+    {
+        "athleteFName": "Jeffrey",
+        "athleteLName": "Adler",
+        "totalPoints": "505",
+        "rank": "5",
+        "country": "Canada",
+        "division": "men"
+    },
+    {
+        "athleteFName": "Tia-Clair",
+        "athleteLName": "Toomey",
+        "totalPoints": "1025",
+        "rank": "1",
+        "country": "Australia",
+        "division": "women"
+    },
+    {
+        "athleteFName": "Katrin",
+        "athleteLName": "Davidsdottir",
+        "totalPoints": "665",
+        "rank": "2",
+        "country": "Iceland",
+        "division": "women"
+    },
+    {
+        "athleteFName": "Kari",
+        "athleteLName": "Pearce",
+        "totalPoints": "585",
+        "rank": "3",
+        "country": "USA",
+        "division": "women"
+    },
+    {
+        "athleteFName": "Haley",
+        "athleteLName": "Adams",
+        "totalPoints": "560",
+        "rank": "4",
+        "country": "USA",
+        "division": "women"
+    },
+    {
+        "athleteFName": "Brooke",
+        "athleteLName": "Wells",
+        "totalPoints": "525",
+        "rank": "5",
+        "country": "USA",
+        "division": "women"
+    }
+]
